@@ -11,7 +11,7 @@ public class BlackJack {
     private int wager;
     private final Scanner in;
     private boolean ongoingTurn = true;
-    private int= 0;
+    private int playerScore = 0;
     private int computerScore = 0;
     private int chips = 25;
     private boolean turn = true;
